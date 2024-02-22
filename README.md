@@ -1,1 +1,1 @@
-# This is my cypress automation testing
+# cypress automation testing
